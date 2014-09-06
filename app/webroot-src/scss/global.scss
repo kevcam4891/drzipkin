@@ -1,0 +1,209 @@
+html,
+body,
+ul,
+li,
+{
+	padding: 0px;
+	margin: 0px;
+}
+ul
+{
+	list-style: none;
+}
+a
+{
+	text-decoration: none;
+}
+
+
+
+html
+{
+	font-family: "Lucida Grande", "Segoe UI", sans-serif;
+}
+body
+{
+	background: url('/img/common/bg/green_cup.png');
+}
+
+#Container
+{
+	width: 1000px;
+	margin: 0px auto;
+}
+#Content
+{
+	position: relative;
+	z-index: 100;
+}
+#Header
+{
+	height: 300px;
+	background-image: url('/img/common/header/lotus.png');
+	background-size: 1000px 300px;
+	position: relative;
+	border-bottom: solid 2px #4f5443;
+	margin-bottom: 20px;
+	z-index: 100;
+
+	img
+	{
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+	}
+}
+
+#LayoutDefault
+{
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+}
+#LayoutSide
+{
+	display: table-cell;
+	vertical-align: top;
+	width: 250px;
+
+	#Nav
+	{
+
+		a
+		{
+			display: block;
+			padding: 10px 5px;
+			color: #fff;
+			font-weight: bold;
+			text-shadow: 1px 1px #000;
+		}
+	}
+}
+#LayoutMain
+{
+	display: table-cell;
+	background: url('/img/common/main-bg.png');
+	padding: 25px;
+
+	p
+	{
+		line-height: 1.5em;
+
+	}
+
+	h1
+	{
+		font-family: 'Merriweather', serif;
+		border-bottom: solid 2px #969a8c;
+		margin-top: 0px;
+		padding-bottom: 15px;
+		text-shadow: 1px 1px #d9e0c6;
+		font-size: 30px;
+	}
+	h1 i
+	{
+		display: inline-block;
+		background: url('/img/common/title-lotus.png') left center no-repeat;
+		background-size: 51px 39px;
+		width: 51px;
+		height: 39px;
+		margin-right: 10px;
+		float: left;
+	}
+	h2
+	{
+		font-size: 18px;
+		color: #5a5c83;
+	}
+
+	.comments
+	{
+		p
+		{
+			margin-top: 30px;
+		}
+		div.person
+		{
+			color: #444;
+			margin-left: 20px;
+		}
+	}
+
+}
+
+#LayoutSide
+{
+	
+}
+#Crane
+{
+	position: absolute;
+	bottom: 0px;
+	width: 844px;
+	height: 456px;
+	background: url('/img/common/crane.png');
+	right: 0px;
+}
+#Flower
+{
+	position: absolute;
+	left: 0px;
+	top: 300px;
+	width: 425px;
+	height: 204px;
+	background: url('/img/common/flower.png');
+}
+#Crane,
+#Flower
+{
+	opacity: 0.3;
+}
+
+#ContactInfo
+{
+	font-size: 13px;
+	margin-top: 15px;
+	padding-top: 35px;
+	background: url('/img/side-divide.png') center top no-repeat;
+
+	td
+	{
+		padding: 10px 0px;
+	}
+	tr.tall td
+	{
+		vertical-align: top;
+	}
+}
+
+#ContactInfo td.icon
+{
+	width: 46px;
+}
+
+
+#Footer
+{
+	margin-top: 20px;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 13px;
+	color: #6c7062;
+	position: relative;
+	z-index: 100;
+
+	border-top: solid 1px #969a8c;
+
+	a
+	{
+		color: #45483f;
+	}
+	a:hover
+	{
+		text-decoration: underline;
+	}
+}
+
+@import 'why';
+@import 'about';
+@import 'contact';

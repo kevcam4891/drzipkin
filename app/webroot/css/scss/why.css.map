@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEC,cACA;EACC,MAAM,EAAE,iBAAiB;EACzB,gBAAgB,EAAE,wBAAwB;EAC1C,MAAM,EAAE,SAAS;EAEjB,iBACA;IACC,MAAM,EAAE,IAAI;IACZ,WAAW,EAAE,IAAI;IACjB,UAAU,EAAE,kDAAkD;IAC9D,YAAY,EAAE,IAAI",
+"sources": ["../../../webroot-src/scss/why.scss"],
+"names": [],
+"file": "why.css"
+}

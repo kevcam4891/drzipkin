@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEC,WACA;EACC,aAAa,EAAE,IAAI",
+"sources": ["../../../webroot-src/scss/about.scss"],
+"names": [],
+"file": "about.css"
+}

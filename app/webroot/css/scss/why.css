@@ -1,0 +1,11 @@
+#LayoutMain ul {
+  border: solid 1px #8b927b;
+  background-color: rgba(217, 229, 181, 0.5);
+  margin: 0px -10px; }
+  #LayoutMain ul li {
+    margin: 15px;
+    line-height: 25px;
+    background: url("/img/common/check.png") left center no-repeat;
+    padding-left: 35px; }
+
+/*# sourceMappingURL=why.css.map */
