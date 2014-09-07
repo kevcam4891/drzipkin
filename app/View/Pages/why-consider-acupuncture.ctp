@@ -19,7 +19,7 @@
 			<p>          Acupuncture stimulates the body’s intrinsic healing and regulating mechanisms. The result is a natural healing response without significant side effects.</p>
 
 			<p>Please contact us  to discuss your specific medical issue or for more information. </p>
-			<p>For more information about medical acupuncture please follow the link: <a href="">American Academy of Medical Acupuncture</a></p>
+			<p>For more information about medical acupuncture please follow the link: <a href="http://www.medicalacupuncture.org/">American Academy of Medical Acupuncture</a></p>
 		</div>
 	</div>
 </div>

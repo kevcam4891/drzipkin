@@ -15,12 +15,12 @@
 						Medical Acupuncture, PA</strong><br/><br/>
 						6725A Fairview Rd.<br/>
 						Charlotte, NC 28210<br/><br/>
-						Lodated in the Rejuvination Center
+						Located in the Rejuvenation Center
 					</td>
 				</tr>
 				<tr>
 					<td class="icon"><img src="/img/phone.png" border="0" width="31px"/></td>
-					<td>+1 704.367.1799</td>
+					<td>704.367.1799</td>
 				</tr>
 				<tr>
 					<td class="icon"><img src="/img/calendar.png" border="0" width="32px"/></td>
