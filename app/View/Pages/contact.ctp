@@ -10,7 +10,7 @@
 					<tbody>
 						<tr>
 							<td id="Text">
-								Text goes here.
+								Please feel free to contact me with any questions about acupuncture.<br/><br/>-Dietlinde Zipkin, MD
 							</td>
 							<td id="Office">
 								<img src="/img/office.png" width="280" border="0"/>

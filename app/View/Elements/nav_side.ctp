@@ -14,7 +14,8 @@
 					<td><strong>The Center For<br/>
 						Medical Acupuncture, PA</strong><br/><br/>
 						6725A Fairview Rd.<br/>
-						Charlotte, NC 28210
+						Charlotte, NC 28210<br/><br/>
+						Lodated in the Rejuvination Center
 					</td>
 				</tr>
 				<tr>
